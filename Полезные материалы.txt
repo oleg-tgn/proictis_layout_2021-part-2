@@ -1,0 +1,13 @@
+Breakpoints Bootstrap
+https://getbootstrap.com/docs/5.1/layout/breakpoints/
+
+
+CTRL+SHIFT+L
+VSCode шрифт в нижний регистр
+
+CTRL+SHIFT+D
+VSCode дублирование строки
+
+
+Про отступы
+https://habr.com/ru/company/netcracker/blog/281008/
